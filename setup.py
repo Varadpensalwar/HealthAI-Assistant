@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'HealthAI-Assistant',
+    name = 'healthai-assistant',
     version= '0.0.0',
     author= 'Varad Pensalwar',
     author_email= 'varadpensalwar@gmail.com',
