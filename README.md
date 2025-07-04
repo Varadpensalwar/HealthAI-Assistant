@@ -62,7 +62,7 @@ HealthAI-Assistant/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dipakshelke23/HealthAI-Assistant.git
+   git clone https://github.com/Varadpensalwar/HealthAI-Assistant.git
    cd HealthAI-Assistant
    ```
 
@@ -138,8 +138,11 @@ This project is licensed under the terms of the license included in the [LICENSE
 ## 📧 Contact
 
 For questions or feedback, please contact:
-- Varad Pensalwar - [varadpensalwar@gmail.com](mailto:varadpensalwar@gmail.com)
+- **Author:** Varad Pensalwar
+- **GitHub:** [Varadpensalwar](https://github.com/Varadpensalwar)
+- **Telegram:** [@Varadpensalwar](https://t.me/Varadpensalwar)
+- **Issues:** [GitHub Issues](https://github.com/Varadpensalwar/VaradGPT-Bot/issues)
 
 ---
 
-Made with ❤️ by [dipakshelke23](https://github.com/dipakshelke23)
+Made with ❤️ by [Varadpensalwar](https://github.com/Varadpensalwar)
