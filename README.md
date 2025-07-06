@@ -133,7 +133,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the terms of the license included in the [LICENSE](LICENSE) file.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code!
 
 ## 📧 Contact
 
