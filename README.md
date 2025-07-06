@@ -68,8 +68,8 @@ HealthAI-Assistant/
 
 2. Create a virtual environment and activate it:
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   conda create --name HealthAI-Assistant python=3.10
+   conda activate HealthAI-Assistant
    ```
 
 3. Install the required dependencies:
